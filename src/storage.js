@@ -1,7 +1,7 @@
 import { createClient } from "@supabase/supabase-js";
 
 // ---- Paste your Supabase project values here ----
-const SUPABASE_URL = "https://iwnzrtbborjniplruuzc.supabase.co/rest/v1/";
+const SUPABASE_URL = "https://iwnzrtbborjniplruuzc.supabase.co";
 const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml3bnpydGJib3JqbmlwbHJ1dXpjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODY4NzMwMTIsImV4cCI6MjEwMjQ0OTAxMn0.asUmHpSq2sppAiLDt3YSwkgkNR6pDzOTypAEtKaim80";
 // ---------------------------------------------------
 
